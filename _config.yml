@@ -1,6 +1,7 @@
-title:            Palak Mathur
-description:      "Observer, Writer, Hacker"
-disqus_shortname: palakmathurgithub
+title:            GDong Lin
+description:      "thinking, coding, reading, photographing"
+logo:		  
+disqus_shortname: gdonglin
 # Assign a default image for your site's header and footer
 search:           true
 share:            true
@@ -9,7 +10,7 @@ readtime:         true
 # Specify the average Words per minute. If not defined, 180 will be used
 wpm:				      200
 # Turn on or off the fin animations in the header and footer
-triangleheader:		false
+triangleheader:	  false
 animated_fins:	  false
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
@@ -20,17 +21,17 @@ fin_color:        "255,255,255"
 
 # Owner/author information
 owner:
-  name:           Palak Mathur
-  avatar:         palakmathur.jpeg
-  email:          insanethoughts@live.com
+  name:           GDong Lin
+  avatar:         gdonglin.jpg
+  email:          linguidong1990@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:
+  description:	  man, live...
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        palak
+  twitter:        
   facebook:
-  github:         palakmathur
-  stackexchange:  https://stackoverflow.com/users/1901100/plkmthr
-  linkedin:       https://www.linkedin.com/in/palakmathur
+  github:         GDongLin
+  stackexchange:  
+  linkedin:       
   instagram:      
   flickr:         
   tumblr:         
@@ -63,15 +64,15 @@ links:
     external: true
   - title: Pictures
     url: /pictures
-  - title: Command Line
-    url: /webcmd
-    external: true
+#  - title: Command Line
+#    url: /webcmd
+#    external: true
   - title: Resume
     url: /resume
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
+timezone:    Asia/Shanghai
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -100,8 +101,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://palakmathur.github.io/'
-  relativeLinks: 'http://palakmathur.github.io/links.jsonp'
+  siteurl: 'http://gdonglin.github.io/'
+  relativeLinks: 'http://gdonglin.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
