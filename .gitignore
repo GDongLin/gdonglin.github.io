@@ -3,6 +3,8 @@ _gh_pages
 _site
 .ruby-version
 .sass-cache
+_posts/deleting
+assets/images/deleting
 
 # Numerous always-ignore extensions
 *.diff
