@@ -91,7 +91,7 @@ a:hover {
 }
 /* - Lead text - */
 .lead {
-  font-size: 21px;
+  font-size: 18px;
   line-height: 2em;
 }
 /* - Blockquote - */
@@ -761,9 +761,15 @@ html {
 /* ----------- */
 /* THEME FONTS */
 /* ----------- */
+/*
 body {
   font-family: 'Merriweather', serif;
 }
+*/
+body {
+  Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+}
+
 body input,
 body textarea,
 body .btn,
@@ -785,7 +791,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
 }
 h1.lighter,
 h2.lighter,
@@ -793,7 +800,8 @@ h3.lighter,
 h4.lighter,
 h5.lighter,
 h6.lighter {
-  font-weight: 200 !important;
+  /*font-weight: 200 !important;*/
+  font-weight: 300 !important;
 }
 /* ---------- */
 /* ANIMATIONS */
